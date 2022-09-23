@@ -1,6 +1,6 @@
 # fairallocation
 
-To view the project:
+Start a webserver from the project directory to see the visualizer:
 ```
 python3 -m http.server
 ```
